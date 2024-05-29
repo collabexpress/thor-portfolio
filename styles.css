@@ -6,8 +6,8 @@ body {
 }
 
 header {
-    background-color: #333;
-    color: white;
+    background-color: #3439a0;
+    color: rgb(150, 39, 39);
     padding: 1em;
     text-align: center;
 }
@@ -22,7 +22,7 @@ section {
 
 footer {
     background-color: #333;
-    color: white;
+    color: rgb(32, 57, 101);
     text-align: center;
     padding: 1em;
     position: fixed;
