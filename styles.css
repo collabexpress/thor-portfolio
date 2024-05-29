@@ -7,7 +7,7 @@ body {
 
 header {
     background-color: #3439a0;
-    color: rgb(150, 39, 39);
+    color: blue;
     padding: 1em;
     text-align: center;
 }
@@ -22,7 +22,7 @@ section {
 
 footer {
     background-color: #333;
-    color: rgb(60, 32, 101);
+    color: red;
     text-align: center;
     padding: 1em;
     position: fixed;
